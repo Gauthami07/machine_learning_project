@@ -27,10 +27,10 @@ python-docx: Word document processing
 tkinter: GUI framework (included with Python)
 
 # Future Enhancements
--Include recruiter dashboard
--Advanced NLP for better resume parsing
--Integration with job matching algorithms
--Database storage for candidate profiles
--Web-based interface
--Batch processing capabilities
--Advanced visualization of results
+1.Include recruiter dashboard
+2.Advanced NLP for better resume parsing
+3.Integration with job matching algorithms
+4.Database storage for candidate profiles
+5.Web-based interface
+6.Batch processing capabilities
+7.Advanced visualization of results
